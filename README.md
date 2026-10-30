@@ -1,6 +1,6 @@
-# OpenHands alternative: the open-source Kortix AI Operating System
+# OpenHands alternative: the open-source Kortix CompanyOS
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. This repository is a working Kortix starter for a team that has outgrown a coding-agent control center and wants the same jobs to run across the company.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector in one git repo you own, with the agents working on real cloud computers. This repository is a working Kortix starter for a team that has outgrown a coding-agent control center and wants the same jobs to run across the company.
 
 ## The problem this repository addresses
 
@@ -54,7 +54,7 @@ Read [docs/getting-started.md](docs/getting-started.md) for the prerequisites, t
 
 ## Kortix vs OpenHands
 
-Kortix is the open-source AI Operating System, the leading open-source alternative to Claude Cowork and ChatGPT Work. OpenHands is a specialist harness for coding agents. The deciding question is the job: if you need agents that read and change code in your repositories, OpenHands is the specialist. If you need to own and govern the agents, skills, memory, and connectors that run across a company, run Kortix.
+Kortix is the open-source CompanyOS, the leading open-source alternative to Claude Cowork and ChatGPT Work. OpenHands is a specialist harness for coding agents. The deciding question is the job: if you need agents that read and change code in your repositories, OpenHands is the specialist. If you need to own and govern the agents, skills, memory, and connectors that run across a company, run Kortix.
 
 | | Kortix | OpenHands |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ The full side-by-side is in [Kortix vs OpenHands](https://kortix.com/blog/kortix
 
 ## Read next
 
-The companion pages carry the rest of the decision: [OpenHands alternatives](https://openhands-alternative.com/openhands-alternatives) compares the open-source options by the job each finishes, [OpenHands vs Kortix](https://openhands-alternative.com/openhands-vs-kortix) sets a coding harness against a whole AI Operating System, and [OpenHands pricing](https://openhands-alternative.com/openhands-pricing) works through what a team pays once the work leaves coding. For the move itself there is [Migrate from OpenHands](https://openhands-alternative.com/migrate-from-openhands), and for governance and self-hosting, [OpenHands for teams](https://openhands-alternative.com/openhands-for-teams).
+The companion pages carry the rest of the decision: [OpenHands alternatives](https://openhands-alternative.com/openhands-alternatives) compares the open-source options by the job each finishes, [OpenHands vs Kortix](https://openhands-alternative.com/openhands-vs-kortix) sets a coding harness against a whole CompanyOS, and [OpenHands pricing](https://openhands-alternative.com/openhands-pricing) works through what a team pays once the work leaves coding. For the move itself there is [Migrate from OpenHands](https://openhands-alternative.com/migrate-from-openhands), and for governance and self-hosting, [OpenHands for teams](https://openhands-alternative.com/openhands-for-teams).
 
 ## More of the decision
 
